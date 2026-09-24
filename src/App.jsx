@@ -204,7 +204,6 @@ function Memories() {
       <div className="section-heading">
         <div className="section-kicker"><Camera size={17} /> little pieces of us</div>
         <h2>Our Little World ❤️</h2>
-        <p>Replace the six images with your own favorite moments.</p>
       </div>
       <div className="memory-grid">
         {memories.map((memory, i) => (
